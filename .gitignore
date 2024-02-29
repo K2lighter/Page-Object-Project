@@ -1,4 +1,6 @@
 .venv/
 .idea/
 .pytest_cache/
-__pycache_
+__pycache__
+allure-results
+steps.txt
